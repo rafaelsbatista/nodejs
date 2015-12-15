@@ -1,6 +1,24 @@
-var a  = 1;
-var b = 2;
+//function statement
 
-var c = a + b;
+function greet() {
+	console.log('hi');
+}
 
-console.log(c);
+greet();
+
+// function are first-class
+function logGreenting(fn) {
+	fn();
+}
+
+logGreenting(greet);
+
+
+// function expression
+var greetMe = function() {
+	console.log("Hi Rafael");
+}
+
+greetMe();
+
+logGreenting(greetMe);
