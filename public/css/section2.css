@@ -1,0 +1,43 @@
+@media screen and (min-width: 768px) {
+    .section2 {
+    margin-top: 90px;
+        margin-left: 140px;
+    }
+    .media-heading {
+        font-size: 36px;
+        padding-top: 25px;
+    }
+
+    .text-main {
+        font-size: 20px;
+        padding-top: 15px;
+    }
+}
+
+/* sm */
+@media screen and (max-width: 400px) {
+    .section2 {
+        margin-top: 40px;
+        margin-left: 10px;
+    }
+    .media-heading {
+        font-size: 18px;
+        padding-right: 0px;
+        padding-top: 15px;
+    }
+
+    .text-main {
+        font-size: 13px;
+        padding-right: 15px;
+        padding-top: 5px;
+    }
+}
+
+
+.section2 {
+}
+
+.section2 img {
+    width: 150;
+}
+

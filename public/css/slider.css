@@ -1,0 +1,46 @@
+.carousel.slide {
+    margin-top: -20px;
+    
+    font-size: 1em;
+
+}
+
+.carousel.slide .item {
+    background-color: #90C3D4;
+}
+
+.carousel.slide .carousel-caption div{
+    margin-bottom: 10px;
+}
+
+.carousel-caption {
+    bottom: 30%;
+    right: 0%;
+}
+
+
+.carousel img {
+    width: 820px;
+}
+
+@media screen and (min-width: 768px) {
+    .carousel-caption {
+        font-size: 34px;
+    }
+    .carousel img {
+        height: 645px !important;
+    }
+}
+
+/* sm */
+@media screen and (max-width: 400px) {
+    .carousel-caption {
+        font-size: 15px;
+    }
+    .carousel img {
+        height: 245px !important;
+    }
+    .carousel.slide {
+        margin-top: 77px;
+    }
+}

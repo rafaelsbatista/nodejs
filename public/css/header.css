@@ -1,0 +1,37 @@
+.title {
+    width: 180px;
+    margin-left: 0px;
+    margin-top: 5px;
+}
+.logo {
+    width: 50px;
+}
+
+.navbar-header {
+    height: 75px;
+}
+
+.navbar-nav {
+    height: 75px;
+}
+.navbar-nav li a{
+        height: 76px;
+        padding-top: 25px;
+}
+.navbar-collapse.collapsing {
+    width: 600px;    
+}
+.navbar-collapse.collapse.in {
+    height: 365px;
+    width: 600px;
+}
+.nav.navbar-nav.navbar-right button {
+    margin-top: 18px;
+}
+.navbar-collapse.collapse.in.nav.navbar-nav.navbar-right button {
+    margin-top: 0px;
+    border: none !important;
+}
+.navbar-toggle {
+    height: 60px;
+}
