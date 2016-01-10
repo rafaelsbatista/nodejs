@@ -1,0 +1,196 @@
+[
+    {
+        "id": 1,
+        "name": "Saulo Fong",
+        "image": "/assets/images/palestrantes/SauloFong.jpg",
+        "tema": "Como integrar a Meditação no seu dia-a-dia utilizando o Corpo como Ferramenta",
+        "description": [
+          "Terapeuta Psico-corporal e Master Coach com formação em hipnose, programação neurolinguística, constelações familiares e tantra. Instrutor de 4° grau faixa-preta, de Aikido e praticante 3° Dan de Kendo.",
+          "Há mais de 10 anos pesquisa a integração mente-corpo, a consciência, os relacionamentos humanos e ministra tratamentos das mais variadas técnicas de meditação.",
+          "Co-fundador do Instituto União, do Processo Despertar do Amor e responsável pela página Meditação Brasil com mais de 515 mil seguidores no Facebook."
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Duda Nascimento",
+        "image": "/assets/images/palestrantes/DudaNascimento.jpg",
+        "tema": "Por que treinar a atenção pode mudar a maneira como vemos o Mundo",
+        "description": [
+            "Instrutor certificado internacional do curso Cultivating Emotional Balance (CEB) pelo Santa Barbara Institute for Consciousness Studies, tendo trenado em Holy Island, Escócia, com os professores doutores Alan Wallace e Eve Ekman.",
+            "Após sua formação em Administração pela PUC-RJ e ter trabalhado no mercado financeiro trocou o mercado pelo sonho de ser músico. Abraçando a meditação como praticante e estudioso, aprofundou-se com diversos cursos, como: Alegria de Viver nível 1, 2 e 3 com Myoshin Kelley (metodologia Yongey Mingyur Rinpoche); CEB com Elisa Kozasa; Arte de Viver nível 1 Meditação e Respiração; Science of Happiness (Ciência da Felicidade) pela University of California - Berkeley; Estratégias Somáticas para o Bem Estar com Ale Duarte; Curso Eneagrama com Paolo Quatrini; Comunicação Não Violente com Dominic Batter e Neurolinguistica com ricardo Malafaia e Rodrigo Siqueira."
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Tiago Tatton",
+        "image": "/assets/images/palestrantes/TiagoTatton.jpg",
+        "tema": "Por que o Google Pratica Mindfulness",
+        "description": [
+            "Sócio-fundador da INICIATIVA MINDFULNESS (www.iniciativamindfulness.com.br).",
+            "Doutorando em Psicologia pela UFRGS/RS e pelo King´s College de Londres.",
+            "Mestre em Ciência da Religião pela UFJF/MG.",
+            "Certificação em Treinamento Intensivo em Mindfulness pela Sociedad Mindfulness y Salud (Buenos Aires - ARG)",
+            "Palestrante do TEDx com o Tema: 'Mindfulness: Um pequeno Milagre' (https://www.youtube.com/watch?v=9xygFoVLmJU)",
+            "Associado ao Mindfulness Centre of Excelence, com treinamento em BMT (Body in Mind Training).",
+            "Diversos treinamentos no Reino Unido de MBCT (Oxford Mindfulness Centre), MBSR (com Michael Chaskalson), Breathworks (Vidyamala Burch) e Shamata (B. Allan Wallace)."
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Rodrigo Siqueira",
+        "image": "/assets/images/palestrantes/RodrigoSiqueira.jpg",
+        "tema": "Como Mindfulness pode ajudar as Organizações e a Sociedade",
+        "description": [
+            "Head da área de Educação e Treinamento da Sati Education e  membro da American Mindfulness Research Association. Tendo participado de diversos cursos e retiros sobre meditação e Vipassana, Rodrigo é o idealizador e instrutor do primeiro projeto formal de prática de Mindfulness em uma escola de negócios no Brasil, o IBMEC Mindful. É também coautor do primeiro artigo científico aprovado relacionando treinamentos em Mindfulness e o impacto positivo na criatividade e inovação sustentável em organizações.  No âmbito acadêmico, desenvolve pesquisa tendo como interesse a integração de Mindfulness aos estudos da área corporativa, em particular criatividade, tomada de decisão e sustentabilidade, buscando contribuir para uma mudança de paradigma de um sistema econômico Ego-centrado para um sistema Eco-centrado."
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Rosa Frazão",
+        "image": "/assets/images/palestrantes/RosaFrazão.png",
+        "tema": "Como cultivar emoções positivas para uma vida mais equilibrada",
+        "description": [
+            "Formada em engenharia pela Universidade Federal do Paraná, com especialização em marketing e gestão empresarial.",
+            "Praticante de meditação há mais de 15 anos, aprofundou sua prática em diversos retiros na Tailândia, Índia, Austrália e Estados Unidos com mestres como S.S. Dalai Lama, Tsoknyi Rinpoche e o professor Alan Wallace.",
+            "Certificada como instrutora internacional do curso Cultivating Emotional Balance (Cultivando o Equilíbrio Emocional), que associa técnicas milenares de treinamento mental e emocional às ferramentas da moderna psicologia ocidental. Participa como colaboradora junto à Universidade Federal do Paraná para implementação de práticas de mindfulness e equilíbrio emocional.",
+            "É uma estudiosa da felicidade humana, tendo como foco a comprovação científica do papel da atenção mental e dos valores éticos no bem-estar do indivíduo e da sociedade."
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Carlos Henrique",
+        "tema": "Como e onde encontrar a Paz",
+        "description": [
+            "Professor e Coordenador do Espaço Hermógenes de Niterói. Tendo a honra e a alegria de seguir a visão elevada e consagrada do querido Professor Hermógenes.",
+            "Professor de Hatha Yoga, Terapeuta Holístico, Profissional de Educação Física. Há mais de dez anos facilitando grupos de autoconhecimento, meditação e desenvolvimento pessoal. Ministra palestras em diferentes instituições religiosas, educacionais e empresarias.",
+            "Ensina a partir  de uma abordagem universalista, clara e pragmática. Seguindo a linha de Sathya Sai Baba encontra Nele inspiração para orientação de todas as suas atividades.",
+            "Dedica seu tempo e energia contribuindo para o despertar de uma humanidade mais amorosa, harmônica, saudável, feliz e sábia.",
+            "Professor Hermógenes é um dos precursores da terapia holística e do Yoga no Brasil. Fundador da Academia Hermógenes que funciona há mais de 50 anos no Centro do Rio de Janeiro como referência nacional e internacional em Yoga. Autor de dezenas de livros que norteiam o trabalho de muitos professores e iluminam a vida de muitos praticantes."
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Regina Restelli",
+        "tema": "Por que meditar nestes momentos de crise",
+        "description": [
+            "Terapeuta holística (CRT 45432) que desenvolve trabalho e estudos com o objetivo de mudar o mundo e a nós mesmos, trazendo para o dia a dia o Ser e o Fazer, Deus e a Ciência.  Trabalha com grupos de meditação na área de educação e empresarial.",
+            "Possui cursos nas seguintes áreas:",
+            "Massagem Espiritual - Instituto Esalen na Califórnia, formada por Maria Lúcia Sauer.",
+            "Radiestesia & Radiônica  e Corpo de Luz - formada pela Terapeuta Holística Ana Maria Souza",
+            "Body Talk System com  sede mundial na Flórida - EUA formada no módulo 1 e 2 pela Dra. Janet Galipo.",
+            "Ho’oponopono  - Terapêutica hawayana do Dr. Ihaleakala Hew Len e ministrada pelo Mestre John Curti - Presidente da Fundación Sauce.",
+            "Psicologia da Yoga aplicada - Aprenda a transformar Suas Emoções com Dra. Uma Krishnamurty pelo Instituto Aleph.",
+            "Certificação em Ativista Quântico e posterior atualizações de estudos , dada pelo Físico Prof. Amit Goswsami.",
+            "Que juntos em sua proposta terapêutica, fazem parte das opções usadas por Regina Restelli para ativar a cura do corpo físico, mental, emocional e espiritual."
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Caroline Bertolino",
+        "image": "/assets/images/palestrantes/CarolineBertolino.png",
+        "tema": "Por que a autocompaixão é um caminho para a felicidade genuína?",
+        "description": [
+            "Mestranda da Universidade Federal de Ciências da Saúde de Porto Alegre. Professora certificada pelo Santa Barbara Institute for Consciousness Studies no programa Cultivating Emotional Balance Teacher Training 2013. Habilitada no Mindful Self Compassion Teacher Training 2015 pela UCSD Center of Mindfulness.",
+            "Tem formação em Psicologia pela Universidade Federal de São Carlos e pós-graduação em Arteterapia pelo NAPE. Também é habilitada pelo Instituto Social Pichon-Riviére para desenvolvimento e coordenação de grupos. Atua nas esferas institucional e educacional para a promoção da saúde mental individual e coletiva.",
+            "Possui o blog : www.autocompaixao.wordpress.com"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Lama Jigme Lhawang",
+        "image": "/assets/images/palestrantes/LamaJigmeLhawang.jpg",
+        "tema": "O Segredo da Meditação",
+        "description": [
+            "Lama Jigme Lhawang (Gabriel Jaeger) é professor, tradutor, terapeuta e mestre de meditação na tradição budista dos himalaias. Iniciou seu treinamento no Budismo em 1995, no Brasil. Em 2003 muda-se para o oriente onde treina por 10 anos nos himalaias, especializando-se em história, lógica, psicologia e filosofia budista pela Universidade Dzongsar, na Índia e, posteriormente, forma-se como tradutor e intérprete da Língua Tibetana pelo Center for Buddhist Studies of Kathmandu University, no Nepal. É também o fundador e diretor da Comunidade Budista Drukpa Brasil e presidente de honra da filial brasileira da Fundação Humanitária Live to Love Internacional. Atualmente vem desenvolvendo seu trabalho da Ciência Contemplativa oferecendo cursos de formação em psicologia contemplativa e meditação terapêutica, psicoterapia mindfulness, equilíbrio emocional, e no cultivo da atenção plena sendo instrutor internacional certificado pelo pelo Santa Barbara Institute of Conscioussness Studies (California) em Cultivating Emotional Balance, um programa de formação baseado em evidências científicas originado através de encontros de S.S. Dalai Lama com renomados cientistas ocidentais e fundado pelos professores Dr. Paul Ekman e Dr. Alan Wallace.",
+            "Sites:",
+            "www.cienciacontemplativa.org",
+            "www.drukpabrasil.org",
+            "www.livetolove.org.br"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Arminda Martins",
+        "tema": "Meditação para Iniciantes. Por onde começar",
+        "description": [
+            "Fundadora e diretora do Espaço Yogamahamanu desde 1984, no Meier e Copacabana  (Rio de Janeiro) ministrando aulas de Yoga e Meditação",
+            "Praticante de Meditação há mais de 30 anos.",
+            "Suas atividades na área incluem:",
+            "Turmas de Yoga para cardíacos em Posto de Saúde do Município do Rio de Janeiro durante 7 anos. Aulas de Meditaçaõ no Espaço Pulsar.",
+            "Yoga ao ar livre para a comunidade no Parque Nacional da Serra dos Orgãos Teresopolis e no Parque da Chacrinha Copacabana .",
+            "Meditação para a comunidade na praia de Copacabana.",
+            "Grupos de Estudo e Meditação.",
+            "Professora de Química UFRJ Astróloga"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Lisiane Seva",
+        "tema": "A Importância da Respiração e Meditação no Mundo Contemporâneo",
+        "description": [
+            "Formada em Administração de Empresas, especializou-se em Gestão de Negócios. Desde 2009 é sócia-gerente da produtora cultural e editora Fase 10 Ação Contemporânea, gerenciando projetos no campo das artes visuais contemporâneas de diversos artistas.",
+            "Voluntária da Fundação Internacional Arte de Viver desde 2002, sendo uma das responsáveis pelo fortalecimento da instituição no Rio de Janeiro. Tornou-se instrutora da instituição no Brasil em 2006 e, desde então, ministra cursos, palestras e seminários sobre gerenciamento do estresse e técnicas de respiração.",
+            "Coordenadora de projetos sociais desde 2009 e uma das responsáveis pela implementação dos projetos: Prison Smart e cursos para pessoas em vulnerabilidade social no Rio. Liderou projetos de ajuda humanitária aos desabrigados em Niterói/RJ (2010), em Teresópolis/RJ (2011) e em Mariana/MG (2015)."
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Claudiah Ratto",
+        "tema": "Porque a Meditação Laica Educa",
+        "description": [
+            "Claudiah Rato é o pseudômino da Professora de Educação Física (UFRJ) do Colégio Pedro II e psicóloga (PUC –Rio) Claudia Maria de Luca. Especialista em Problemas do Desempenho Escolar (IBMR) e Psicoterapia Breve Focal (Santa Casa).",
+            "Em 2011, lançou o livro 'Meditação Laica Educacional para uma educação emocional' pela Paco Editorial onde defende que a meditação é uma habilidade humana que deve ser desenvolvida na escola, na forma laica, como a grande mudança de paradigma necessária para construirmos uma sociedade pacífica, próspera e auto-realizada. Criou a técnica com o mesmo nome e treina professores de todo o Brasil. Atualmente, coordena o Núcleo de Pesquisa em Meditação Laica Educacional Aplicada, no Colégio Pedro II, RJ."
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Almir Menezes",
+        "tema": "A Meditação como Treinamento Mental para a Competição",
+        "description": [
+            "Estudioso e praticante da meditação desde os 9 anos de idade, Almir Menezes possui diversos títulos em artes marciais como faixa preta de karatê e técnicas de meditação 4º Dan, pela Academia Kobukan.",
+            "Como professor associado na Universidade Federal do Rio de Janeiro, Almir é Mestre em Educação Física e Desportos pela EEFD da UFRJ e Livre Docente pela IEF da UERJ, lecionando a disciplina “Fundamentos da Meditação”. Desenvolveu pesquisas utilizando a meditação como ferramenta para aumentar o equilíbrio emocional dos atletas durante competições, com consequente aumento de performance e diminuição da violência nos esportes.",
+            "É também Técnico e Diretor na área Didática Pedagógica da Federação de Capoeira Desportiva do Estado do Rio de Janeiro."
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Fernando Bignardi",
+        "tema": "Os hábitos diários que promovem a saúde e desenvolvimento espiritual: Meu novo estilo de vida em 2016",
+        "description": [
+            "Médico Gerontólogo graduado em Medicina pela Universidade Federal de São Paulo. Pós graduado em Homeopatia, Pisicoterapia Psicossomática, caracterologia Reichiana e Equoterapia.",
+            "Pesquisador transdisciplinar sobre meditação, reconexão e desenvolvimento do ser humano.",
+            "Coordenador dos Setores de Estudos do Envelhecimento e da Transdisciplinaridade aplicada à Saúde, ambos da UNIFES",
+            "Consultor corporativo em sustentabilidade pessoal e organizacional. Atuou em empresas como: Natura, Ara Cruz, Caixa Econômica Federal, Alcoa, BM&F, SESI, SEBRAE. Foi destaque na matéria de Capa da Revista Isto é sobre a Medicina da Meditaçào pelo seu trabalho realizado no Centro de Estudos do Envelhecimento pelos resultados obtidos com o uso da Meditaçao como ferramenta de cura."
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Martin Boroson",
+        "tema": "Meditar em 1 minuto é Possível",
+        "description": [
+            "Martin Boroson é  o criador da Meditação em um Instante (One-Moment Meditation), a nova abordagem da prática meditativa que ajuda as pessoas a explorarem  o imenso poder contido na consciência do momento presente.",
+            "Martin oferece treinamento de liderança para as empresas da Fortune 500 ( grupo das 500 maiores corporações do Mundo)  usando mindfulness( atenção-plena) para impulsionar inovações e aumentar performances.",
+            "Ele cursou filosofia em Yale e ganhou uma bolsa de estudos para MBA na Escola de Administração de Yale( Yale School of Management). Já estudou a relação da cura com o uso  de diferentes estados de consciência e já trabalhou como Psicoterapeuta.",
+            "Seu trabalho recebeu destaque no site Oprah.com em uma série de 30 dias sobre  alívio de estresse.",
+            "Seu mini vídeo Meditação em um Minuto (How to Meditate in a Moment) em sua versão em inglês já foi visto por mais de 1 milhão de pessoas.",
+            "Obs: Ele possui uma versão do vídeo com legendas em português (https://www.youtube.com/watch?v=IPrOlrYHsoQ)"
+        ]
+        
+    },
+    {
+        "id": 16,
+        "name": "Fred Nogueira",
+        "tema": "A definir",
+        "description": [
+            "Fred Nogueira é profissional da área de tecnologia da informação e atualmente trabalha com programação de computadores, em uma empresa de consultoria de TI.",
+            "A aproximadamente 4 anos começou a praticar Yoga, na Academia Hermógenes onde frequentou por cerca de 1 ano prosseguindo com estudos sobre o tema da espiritualidade.",
+            "Em Janeiro de 2014 conheceu a organização internacional Arte de Viver.",
+            "Desde então, participou de cursos de Respiração, de Meditação, de Silêncio, Conhecimentos de Yoga e Preparatório para voluntários/instrutores.",
+            "Atualmente, faz voluntariado em cursos de respiração, em meditações, cursos avançados de silêncio e em projetos sociais. Alguns projetos são realizados em comunidades de baixa renda, em abrigos para terceira idade, escolas e penitenciárias."
+        ]
+    }
+    
+    
+    
+    
+]
