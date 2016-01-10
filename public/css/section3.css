@@ -1,0 +1,36 @@
+.section3 {
+    width: 100%;    
+    background-size: cover;
+    background-image: url("/assets/mountain.jpg");
+    background-repeat: no-repeat;
+}
+@media screen and (max-width: 400px) {
+    .section3 {
+        height: 160px;
+        background-position-y: -40px;
+        margin-top: 40px;
+    }
+    
+    .section3 .text {
+        padding-top: 20px;
+        margin-left: 25px;
+        margin-right: 25px;
+    }
+}
+    
+@media screen and (min-width: 768px) {
+    .section3 {
+        margin-top: 90px;
+        height: 400px;
+        background-position-y: -370px;
+    }
+    .section3 .text {
+        font-size: 55px;
+        margin-left: 130px;
+        margin-right: 130px; 
+        padding-top: 30px;
+    }
+    .section3 .author {
+        font-size: 24px;
+    }
+}
