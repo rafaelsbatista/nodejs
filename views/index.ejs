@@ -7,8 +7,9 @@
 
 
         <!-- load angular via CDN -->
-        <script src="//code.angularjs.org/1.3.0-rc.1/angular.min.js"></script>
-        <script src="//code.angularjs.org/1.3.0-rc.1/angular-route.min.js"></script>
+        <script src="//code.angularjs.org/1.5.0-rc.0/angular.min.js"></script>
+        <script src="//code.angularjs.org/1.5.0-rc.0/angular-route.min.js"></script>
+        <script src="//code.angularjs.org/1.5.0-rc.0/angular-animate.min.js"></script>
         <script src="/assets/js/app.js"></script>
         <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
         <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
@@ -18,6 +19,8 @@
         <script src="/assets/js/controllers/mainController.js"></script>
         <script src="/assets/js/controllers/palestranteController.js"></script>
         <script src="/assets/js/controllers/headerController.js"></script>
+        <script src="/assets/js/controllers/meditacaoController.js"></script>
+        <script src="/assets/js/controllers/contatoController.js"></script>
         
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
         <link rel="stylesheet" href="/assets/css/header.css" />
@@ -26,6 +29,8 @@
         <link rel="stylesheet" href="/assets/css/section3.css" />
         <link rel="stylesheet" href="/assets/css/section4.css" />
         <link rel="stylesheet" href="/assets/css/palestrantes.css" />
+        <link rel="stylesheet" href="/assets/css/meditacao.css" />
+        <link rel="stylesheet" href="/assets/css/contato.css" />
     </head>
     <body>
 
@@ -46,10 +51,10 @@
                 </div>
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
-                       <li ng-class="{ 'active': currentTab === 0 }"><a href="#">Principal</a></li>    
-                       <li ng-class="{ 'active': currentTab === 1 }"><a href="#">Meditação</a></li>
+                       <li ng-class="{ 'active': currentTab === 0 }"><a href="#principal">Principal</a></li>    
+                       <li ng-class="{ 'active': currentTab === 1 }"><a href="#meditacao">Meditação</a></li>
                        <li ng-class="{ 'active': currentTab === 2 }"><a href="#palestrantes">Palestrantes</a></li>
-                       <li ng-class="{ 'active': currentTab === 3 }"><a href="#">Contato</a></li>
+                       <li ng-class="{ 'active': currentTab === 3 }"><a href="#contato">Contato</a></li>
                        <button type="button" class="btn btn-default">Inscreva-se</button>
                    </ul>
                 </div>  

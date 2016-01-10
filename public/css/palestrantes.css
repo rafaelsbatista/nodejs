@@ -26,6 +26,11 @@
     }
 }
 
+.palestrante-title {
+    background-color: #90C3D4;
+    padding-top: 15px;
+}
+
 
 .section-title {
     margin-top: 76px;
@@ -75,4 +80,5 @@
 .palestrantes.row {
     margin-right: 0px;
     margin-left: 0px;
+    background-color: #90C3D4;
 }
