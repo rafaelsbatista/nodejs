@@ -1,3 +1,7 @@
+.contato {
+    min-height: 100%;
+}
+
 .contato .contato-panel {
     width: 100%;
     height: 100%;
@@ -15,14 +19,37 @@
     width: 50%;
 }
 
+@media screen and (min-width: 768px) {
+    .contato .contato-table .text1 {
+        font-size: 210%;
+    }
+    .contato .contato-table .text2 {
+        font-size: 100%;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .contato .contato-table .text1 {
+        font-size: 140%;
+    }
+    .contato .contato-table .text2 {
+        font-size: 80%;
+    }
+    .contato .contato-column-2 .form-group label {
+        font-size: 85%;
+    }
+    .contato td {
+        padding-bottom: 40%;
+    }
+}   
+    
 .contato .contato-table .text1 {
     padding-bottom: 10%;
     color: white;
-    font-size: 210%;
 }
+
 .contato .contato-table .text2 {
     color: white;
-    font-size: 100%;
     padding-bottom: 10%;
 }
 
