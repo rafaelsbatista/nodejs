@@ -4,4 +4,8 @@ myApp.controller('headerController', ['$scope', '$rootScope', function($scope, $
     });
 
     $scope.$on('$destroy', unbind);
+    
+    $scope.collapse = function () {
+            $('.navbar-collapse.in').collapse('hide');
+    }
 }]);

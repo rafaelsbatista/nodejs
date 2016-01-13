@@ -9,4 +9,10 @@ myApp.controller('palestrantesController', ['$scope', '$rootScope', '$http', fun
             });
             console.log($scope);
        });
+       
+           var modal = $('.modal-backdrop');
+    
+    if (modal) {
+        modal.remove();
+    }
 }]);

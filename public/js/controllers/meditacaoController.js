@@ -15,4 +15,10 @@ myApp.controller('meditacaoController', ['$scope', '$rootScope', "$interval", fu
     
     $interval(func, 5000);
     
+    
+        var modal = $('.modal-backdrop');
+    
+    if (modal) {
+        modal.remove();
+    }
 }]);
