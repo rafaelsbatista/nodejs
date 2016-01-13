@@ -1,11 +1,13 @@
 .section4 {
     padding-top: 20px;
     padding-left: 10px;
+    background-color: #d4d7db;
 }
 
 .section4 .section-title {
     font-size: 33px;
     margin-bottom: 20px;
+    margin-top: 15px !important;
 }
 
 .section4 img {

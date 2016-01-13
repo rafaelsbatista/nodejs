@@ -1,8 +1,13 @@
 .meditacao {
     margin-top: 75px;
     background-color: #90C3D4;
-    margin-bottom: 75px;
 }
+
+.meditacao .background {
+    padding: 20px;
+    background-color: d3d7db;
+}
+
 .meditacao .panel {
     margin-bottom: 0;
 }
@@ -16,6 +21,9 @@
 }    
 
 .meditacao .animation {
+    margin-top: 10px;
+    margin-bottom: 10px;    
+    border-radius: 4px;
     width: 100%;
     background-color: cadetblue;
     width: 100%;

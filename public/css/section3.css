@@ -8,7 +8,6 @@
     .section3 {
         height: 160px;
         background-position-y: -40px;
-        margin-top: 40px;
     }
     
     .section3 .text {
@@ -20,7 +19,6 @@
     
 @media screen and (min-width: 768px) {
     .section3 {
-        margin-top: 90px;
         height: 400px;
         background-position-y: -370px;
     }

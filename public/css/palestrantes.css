@@ -27,7 +27,7 @@
 }
 
 .palestrante-title {
-    background-color: #90C3D4;
+    background-color: #d4d7db;
     padding-top: 15px;
 }
 
@@ -68,7 +68,6 @@
 }
 
 .thumbnail h3 {
-    background-color: #90C3D4;
     display: inline-block;
     border-top-left-radius: 275px;
     border-top-right-radius: 275px;
@@ -80,5 +79,19 @@
 .palestrantes.row {
     margin-right: 0px;
     margin-left: 0px;
-    background-color: #90C3D4;
+    background-color: #d4d7db;
+}
+
+.palestrantes .thumbnail .btn {
+    background-color: white;
+} 
+
+.palestrantes .thumbnail .btn:hover {
+    background-color: #d3d7db
+} 
+
+
+.glyphicon.glyphicon-plus {
+    color: #337ab7;
+        
 }

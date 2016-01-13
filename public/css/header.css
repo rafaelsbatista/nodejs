@@ -7,6 +7,17 @@
     width: 50px;
 }
 
+.navbar-default {
+    border-color: #337ab7;
+    background-color: #bce4ec
+}
+
+.btn-default {
+    border-color: #337ab7;
+    background-color: #337ab7;
+    color: white;
+}
+
 .navbar-header {
     height: 75px;
 }
@@ -34,4 +45,8 @@
 }
 .navbar-toggle {
     height: 60px;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    background-color: C0C0C0;
 }
