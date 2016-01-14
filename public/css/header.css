@@ -36,9 +36,20 @@
     height: 365px;
     width: 600px;
 }
+
 .nav.navbar-nav.navbar-right button {
-    margin-top: 18px;
+    margin-top: -5px;
 }
+
+@media screen and (max-width: 770px) {
+    .nav.navbar-nav.navbar-right button {
+        display: none;
+    }
+    .nav.navbar-nav.navbar-right .buttonli {
+        display: none;
+    }
+}
+
 .navbar-collapse.collapse.in.nav.navbar-nav.navbar-right button {
     margin-top: 0px;
     border: none !important;
