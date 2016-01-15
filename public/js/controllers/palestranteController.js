@@ -7,7 +7,6 @@ myApp.controller('palestrantesController', ['$scope', '$rootScope', '$http', fun
                     palestrante.image = "/assets/images/palestrantes/" + palestrante.name.replace(" ", "") + ".jpg";
                 }
             });
-            console.log($scope);
        });
        
            var modal = $('.modal-backdrop');

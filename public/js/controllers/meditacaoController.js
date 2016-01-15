@@ -4,7 +4,6 @@ myApp.controller('meditacaoController', ['$scope', '$rootScope', "$interval", fu
     var tips = [];
     tips.push({ text: "a melhorar a concentração", number: 0});
     tips.push({ text: "a diminuir o stress", number: 1});
-    tips.push({ text: "blaj blah blah", number: 2});
     var i = 0;
     $scope.meditation = {tips: tips, number: 0};
     
