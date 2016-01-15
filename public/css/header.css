@@ -7,6 +7,53 @@
     width: 50px;
 }
 
+.mobile-fixed-top {
+    display: none;
+}
+
+@media screen and (max-width: 700px) {
+    .mobile-fixed-top {
+        margin-top: 76px;
+        display: block;
+    }
+    
+    .ng-scope {
+        padding-top: 12px !important;
+    }
+    
+    .mobile-fixed-top .navbar-collapse.collapse {
+        display: block!important;
+    }
+    
+    .mobile-fixed-top .navbar-nav.navbar-right:last-child {
+        margin-right: -15px !important;
+    }
+
+    .mobile-fixed-top .nav.navbar-nav.navbar-right .buttonli {
+        display: block !important;
+        height: 35px !important;
+    }
+    .mobile-fixed-top .nav.navbar-nav.navbar-right button {
+        display: block !important;
+        position: absolute;
+        right: 30%;
+        top: 15%;
+    }
+
+    .mobile-fixed-top .navbar-nav {
+        height: 35px !important;
+    }
+    
+    .mobile-fixed-top .navbar-nav li a {
+        height: 35px !important;
+        padding-top: 0px !important;
+    }
+}
+
+.mobile-fixed-top.display-none-mobile {
+    display: none !important;
+}
+
 .navbar-default {
     border-color: #337ab7;
     background-color: #bce4ec;
