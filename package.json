@@ -20,6 +20,7 @@
   "dependencies": {
     "ejs": "^2.3.4",
     "express": "^4.13.3",
-    "jade": "^1.11.0"
+    "jade": "^1.11.0",
+    "jquery-shinybox": "^2.3.2"
   }
 }

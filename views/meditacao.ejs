@@ -1,41 +1,54 @@
 <div class="meditacao">
-<div class="background">
-    <div class="panel panel-primary">
-        <div class="panel-heading">Por que meditar?</div>
-        <div class="panel-body"> 
-            <table class="text">
-                <tr> 
-                    <td class="image-column">
-                        <div class = "image" style="background-image:url('/assets/images/meditationMindBody.jpg')"></div>
-                    </td>
-                    <td class="text-column">
-                        <div class="question"> 
-                           
-                        </div>
-                        <div class="answer">
-                                A meditação é capaz de trazer benefícios físicos e mentais a quem a pratica com regularidade. Estudos comprovaram que transformar a meditação em um hábito regular, sem a necessidade de vínculo com nenhuma religião, ajuda a aliviar o desconforto e melhorar a qualidade de vida de pacientes com dor crônica, insônia e depressão, além de reforçar a imunidade, reduzir o nível dos hormônios do stress, a pressão arterial e o risco de doenças do coração.
-                        </div>
-                    </td>
-                </tr>
-            </table>
+    <div class="meditacao-header"></div>
+    <div class="row">
+    <div class="col-md-8 main" align="center">
+        <p class="font-1"> Semana da Meditação</p>
+        <p class="font-1"> 1° Congresso Online Internacional de Meditação </p>
+        <p class="font-2"> Porque acreditamos que a prática regular de meditação muda uma sociedade</p>
+        <div class="border"> </div>
+        <p class="font-3">Durante 7 dias especialistas em Meditação do Brasil e do</p>
+        <p class="font-3">Exterior vão lhe a ensinar como trazer mais equilírbio para</p>
+        <p class="font-3">a sua vida.</p>
+        <p class="font-3">Ao longo do dia, 3 palestras online trasmitidas</p>
+        <p class="font-3">gratuitamente.</p>
+        <p class="font-3">À noite, uma meditação guiada para você aprender</p>
+        <p class="font-3">praticando.</p>
+        <div class="space"></div>
+        <p class="font-3">A Semana da Meditação será totalmente online e gratuita</p>
+        <p class="font-3">para quem assistir ao vivo.</p>
+        <p class="font-3">Ela ocorrerá de 25 a 31 de Janeiro e para se inscrever</p>
+        <p class="font-3">basta clicar no link abaixo.</p>
+        <div class="space"></div>
+        <p class="font-3">Em breve a programação do congresso será </p>
+        <p class="font-3">disponibilizada neste site. O acesso às palestras será</p>
+        <p class="font-3">totalmente gratuito a todos os inscritos durante o horário</p>
+        <p class="font-3">pré-determinado.</p>
+        <div class="space"></div>
+        <p class="font-3">Após o término do congresso será oferecido um pacote </p>
+        <p class="font-3">com os vídeos das palestras  e muitos bônus! Esse </p>
+        <p class="font-3">pacote poderá ser adquirido posteriormente.</p>
+    </div>
+    <div align="center" class="col-md-3 second">
+        <div class="row">
+            <div class="col-md-12 main">
+                <div class="font-1">21 Palestrantes confirmados</div>
+                <a href="/assets/images/banner.jpg" class="shinybox" title="Semana da Meditação">
+                    <img src="/assets/images/banner.jpg" alt="street">
+                </a>
+            </div>
+            <div class="col-md-12 main">
+                <div class="thumbnail" align="center">
+                    <div class="font-1">{{palestrante.name}}</div>
+                    <div class ="palestrante-image" style="background-image: url({{palestrante.image}})">
+                    </div>
+                    <div class="caption" align="center">
+                        <p>{{palestrante.tema}}</p>
+                    </div>
+                    <a href="#palestrantes">
+                        <button class="btn btn-default" >Ver todos</button>
+                    </a> 
+                </div>
+            </div>            
         </div>
     </div>
-    <div align="center" class="animation" ng-animate=" 'animate' " <div ng-hide="meditation.number !== tip.number" ng-repeat="tip in meditation.tips">
-            A meditação ajuda {{tip.text}}
-    </div>
-    <div class="panel panel-primary second">
-        <div class="panel-heading">Por que participar do Congresso Online?</div>
-        <div class="panel-body"> 
-            <div align="center" class="answer">
-                <b>Durante 7 dias especialistas do Brasil e do Exterior vão te ensinar como trazer mais equilíbrio para a sua vida.</b> 
-            </div>
-            <div align="center" class="answer">
-                <b>De dia 3 palestras online transmitidas gratuitamente. De noite uma meditação guiada para você aprender praticando.</b>
-            </div>
-            <div align="center" class="answer">
-                <b>A Semana da Meditação será totalmente online e gratuito para quem assistir ao vivo.<br/>Ela ocorrerá de 25 a 31 de Janeiro</b>
-            </div>
-        </div>
-    </div>
-</div>
 </div>

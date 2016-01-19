@@ -1,23 +1,32 @@
-myApp.controller('meditacaoController', ['$scope', '$rootScope', "$interval", function ($scope, $rootScope, $interval) {
+myApp.controller('meditacaoController', ['$scope', '$rootScope', "$interval", "$http", function ($scope, $rootScope, $interval, $http) {
     $rootScope.$emit('tabChange', 1);
+       
     
-    var tips = [];
-    tips.push({ text: "a melhorar a concentração", number: 0});
-    tips.push({ text: "a diminuir o stress", number: 1});
+    
+    
+    var modal = $('.modal-backdrop');
+        
     var i = 0;
-    $scope.meditation = {tips: tips, number: 0};
-    
-    var func = function() {
-        i = (i + 1) % tips.length;
-        $scope.meditation.number = i;
-    }
-    
-    $interval(func, 5000);
-    
-    
-        var modal = $('.modal-backdrop');
+    $(".shinybox").shinybox();
     
     if (modal) {
         modal.remove();
     }
+    $http.get("/assets/palestrante.json").then(function(response){
+            $scope.palestrantes = response.data;
+            $scope.palestrantes.forEach(function(palestrante) {
+                if (!palestrante.image) {
+                    palestrante.image = "/assets/images/palestrantes/" + palestrante.name.replace(" ", "") + ".jpg";
+                }
+            });
+            var func = function() {
+                $scope.palestrante = {};
+                $scope.palestrante.image = $scope.palestrantes[i].image; 
+                $scope.palestrante.name = $scope.palestrantes[i].name; 
+                $scope.palestrante.tema = $scope.palestrantes[i].tema; 
+                i = (i + 1) % $scope.palestrantes.length;
+            }
+            func();
+            $interval(func, 5000);
+       });
 }]);

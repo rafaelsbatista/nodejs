@@ -7,6 +7,7 @@ var port = process.env.PORT || 3000;
 app.set('view engine', 'ejs');
 
 app.use('/assets', express.static(__dirname + '/public'));
+app.use('/img', express.static(__dirname + '/img'));
 app.use('/views', express.static(__dirname + '/views'));
 
 app.use('/', function (req, res, next){

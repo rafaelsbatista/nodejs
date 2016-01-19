@@ -1,8 +1,73 @@
 .meditacao {
     margin-top: 75px;
-    background-color: #90C3D4;
+    background-color: rgb(238, 242, 245);
 }
 
+.meditacao .meditacao-header {
+    width: 100%;
+    background-image: url("/assets/images/semanameditacao.jpg");
+    background-size: cover;
+    padding-top: 20%;
+    background-repeat: no-repeat;
+    background-position: center 
+}
+
+
+
+.meditacao .space {
+    margin: 60px;
+}
+
+.meditacao .border {
+    width: 50%;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 2px;
+    border-left-width: 0;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: #434b52;
+    border-right-color: #434b52;
+    border-bottom-color: #434b52;
+    border-left-color: #434b52;
+    background-clip: padding-box;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.meditacao .row {
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(238, 242, 245);
+}
+
+.meditacao .main {
+    display: block;
+    margin-top: 25px;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.meditacao .second {
+    margin-left: 70px;
+}
+.meditacao .second img {
+    max-width: 100%;
+}
+
+.meditacao .second button {
+    margin-top: 15px;   
+    margin-bottom: 15px;   
+}
+.meditacao .main p:first-child {
+    margin-top: 30px;
+}
 .meditacao .background {
     padding: 20px;
     background-color: d3d7db;
@@ -66,32 +131,68 @@
 
     
 @media screen and (min-width: 768px) {
-    .meditacao .text-column .answer {
-        font-size: 120%;
+    .meditacao .font-1 {
+        font-family: "Raleway";
+        font-size: 35px;
+        font-weight: normal;
+        font-style: normal;
+        text-decoration: none;
+        text-shadow: none;
+        color: rgb(0,0,0);
     }
-    .meditacao .animation {
-        font-size: 170%;
+
+    .meditacao .font-2 {
+        font-family: "Raleway";
+        font-size: 20px;
+        font-weight: normal;
+        font-style: normal;
+        text-decoration: none;
+        text-shadow: none;
+        color: #000;   
     }
-    .meditacao .panel-heading {
-        font-size: 240%;
-    }
-    .meditacao .second .answer {
-        font-size: 200%;
+
+    .meditacao .font-3 {
+        font-family: "Raleway";
+        font-size: 25px;
+        font-weight: normal;
+        font-style: normal;
+        text-decoration: none;
+        text-shadow: none;
+        color: #000;
     }
 }
 @media screen and (max-width: 750px) {
-    .meditacao .text-column .answer {
-        font-size: 70%;
+    .meditacao .font-1 {
+        font-family: "Raleway";
+        font-size: 30px;
+        font-weight: normal;
+        font-style: normal;
+        text-decoration: none;
+        text-shadow: none;
+        color: rgb(0,0,0);
     }
-    
-    .meditacao .animation {
-        font-size: 100%;
+
+    .meditacao .font-2 {
+        font-family: "Raleway";
+        font-size: 15px;
+        font-weight: normal;
+        font-style: normal;
+        text-decoration: none;
+        text-shadow: none;
+        color: #000;   
     }
-    .meditacao .panel-heading {
-        font-size: 120%;
+
+    .meditacao .font-3 {
+        font-family: "Raleway";
+        font-size: 20px;
+        font-weight: normal;
+        font-style: normal;
+        text-decoration: none;
+        text-shadow: none;
+        color: #000;
     }
-    .meditacao .second .answer {
-        font-size: 100%;
+    .meditacao .second {
+        display: none;
     }
 }
 
