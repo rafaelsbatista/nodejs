@@ -199,7 +199,53 @@
             "Maria Fernanda é editora-chefe do blog Alternativas Saudáveis, onde publica artigos de utilidade pública sobre como se ter um estilo de vida mais saudável.",
             "http://www.facebook.com/AlternativasSaudaveis" 
         ] 
-    }
+    },
+	{
+		"id": 18,
+		"name": "Jonas Ramos",
+		"tema": "Tudo Que Você Precisa Saber Sobre Meditação Para Crianças",
+		"description": [
+			"Ama estar com a família e junto à natureza. Casado há 24 anos e pai de duas filhas Jéssica (23) e Alícia (6).",
+			"Empreendedor, analista de sistemas e empresário no ramo de Tecnologia da Informação. Formado em Gestão de Empresas (UCS) e especialização em vendas (ESPM).",
+			"Praticante de meditação desde 2006. Em 2009 fundou o Instituto Xamânico Caminho do Mestre – Instituto de Meditação. Em 2010 iniciou os grupos de meditação para crianças.",
+			"Formação em Coach pelo BCI, Coaching Xamânico pelo Instituto Ricardo Fialho e Psicoterapia Reencarnacionista pela ABPR. Praticante de Yoga.",
+			"Criador do site “Meditação Para Crianças” e do “Criança Presente” – Programa online que ensina como praticar meditação com crianças."
+		]
+	},
+	{
+		"id": 19,
+		"name": "Fabiana Fondevila",
+		"tema": "A definir",
+		"description": [
+			"Fabiana Fondevila is a journalist, chlildren's book author and workshop facilitator. She is a founding member of Vivir Agradecidos, a non-profit organization which seeks to promote gratitude as a way of life.",
+			"She blogs at https://lausinamistica.wordpress.com/ (in Spanish) and in https://mysticvisionblog.wordpress.com/ (in English) and writes for different international media.",
+			"Her main interests include creative writing, finding and restoring our connection to nature, and living with awe, passion and reverence."
+		]
+	},
+	{
+		"id": 20,
+		"name": "Amanda Dremer",
+		"tema": "A definir",
+		"description": [
+			""
+		]
+	},
+	{
+		"id": 21,
+		"name": "Gabriela Frantz",
+		"tema": "A definir",
+		"description": [
+			""
+		]
+	},
+	{
+		"id": 22,
+		"name": "Kleber Tani",
+		"tema": "A definir",
+		"description": [
+			""
+		]
+	}
     
     
     
