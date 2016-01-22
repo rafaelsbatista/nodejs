@@ -27,11 +27,18 @@
     width: 820px;
 }
 
+.carousel iframe {
+    width: 820px;
+}
+
 @media screen and (min-width: 768px) {
     .carousel-caption {
         font-size: 34px;
     }
     .carousel img {
+        height: 645px !important;
+    }
+    .carousel iframe {
         height: 645px !important;
     }
 }
@@ -42,6 +49,9 @@
         font-size: 15px;
     }
     .carousel img {
+        height: 245px !important;
+    }
+    .carousel iframe {
         height: 245px !important;
     }
     .carousel.slide {

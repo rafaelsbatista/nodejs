@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/rafaelsbatista/nodejs#readme",
   "dependencies": {
+    "angular-youtube-embed": "^1.1.1",
     "ejs": "^2.3.4",
     "express": "^4.13.3",
     "jade": "^1.11.0",
