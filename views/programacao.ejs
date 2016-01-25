@@ -1,0 +1,25 @@
+<div class="programacao"> 
+    <div class="programacao-header"></div>
+    <div class="programacao-line" ng-repeat="date in dates">
+        <div align="center" class="programacao-line-header">
+            <div class="date"><strong>{{date.date}}</strong></div>
+            <div class="pipe"> | </div>
+            <div class="date"><strong>{{date.name}}</strong></div>
+            <div class="pipe"> | </div>
+            <div class="note">Horário de brasília</div>
+        </div>
+        <div class="row programacao-line-body">
+            <div class="col-md-3" ng-repeat="palestra in date.palestras">
+                <div align="justify" class="hour"><strong>{{palestra.time}}</strong></div>
+                <div class="title">
+                    <h5 align="justify">
+                        <b>{{palestra.tema}}</b><br>
+                        <span> {{palestra.nome}}
+                        
+                    </h5>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>

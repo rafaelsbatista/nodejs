@@ -27,4 +27,8 @@ myApp.config(function ($routeProvider) {
         templateUrl: 'views/main.ejs',
         controller: 'mainController'
     })
+    .when('/programacao', {
+        templateUrl: 'views/programacao.ejs',
+        controller: 'programacaoController'
+    })
 });

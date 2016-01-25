@@ -1,5 +1,5 @@
 myApp.controller('contatoController', ['$scope', '$rootScope' ,'$http', '$window', function($scope, $rootScope, $http, $window) {
-    $rootScope.$emit('tabChange', 3);
+    $rootScope.$emit('tabChange', 4);
     
     var modal = $('.modal-backdrop');
     

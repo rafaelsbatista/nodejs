@@ -1,0 +1,85 @@
+.programacao .programacao-header {
+    width: 100%;
+    background-image: url("/assets/images/semanameditacao.jpg");
+    background-size: cover;
+    padding-top: 20%;
+    background-repeat: no-repeat;
+    background-position: center 
+}
+.programacao {
+    margin-top: 75px;
+    background-color: rgb(238, 242, 245);
+}
+
+.programacao .programacao-line {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 40px;
+}
+
+.programacao .programacao-line-body {
+    margin-left: 30px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.programacao .programacao-line-header {
+    width: 100%;
+    background: #F7F7F7;
+    border-top: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;
+    padding: 10px 0;
+    font-size: 25px;
+}
+
+.programacao .date {
+    display: inline-block;
+}
+.programacao .pipe {
+    display: inline-block;
+}
+.programacao .note {
+    display: inline-block;
+        font-size: 20px;
+}
+.programacao .hour {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 12px;
+    padding-top: 23px;
+    position: relative;
+    border-radius: 50%;
+    float: left;
+    width: 70px;
+    height: 70px;
+    border-width: 2px;
+    line-height: normal;
+    vertical-align: middle;
+    border: 1px solid #337ab7;;
+}
+.programacao .hour strong {
+    margin-left: 10px;
+    font-size: 17px;
+}
+    
+.programacao .title {
+    display: inline-block;
+    font-size: 14px;
+    text-align: left;
+    line-height: normal;
+    vertical-align: middle;
+    display: table;
+    height: 70px;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+.programacao .title h5{
+    margin-top: 5px;
+    margin-bottom: 0px;
+    font-size: 15px
+    
+}
+.programacao .title span{
+    font-size: 15px;   
+}

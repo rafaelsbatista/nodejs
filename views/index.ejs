@@ -22,6 +22,7 @@
         <script src="/assets/js/controllers/headerController.js"></script>
         <script src="/assets/js/controllers/meditacaoController.js"></script>
         <script src="/assets/js/controllers/contatoController.js"></script>
+        <script src="/assets/js/controllers/programacaoController.js"></script>
         <script src="/assets/js/jquery.shinybox.js"></script>
         
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
@@ -34,6 +35,7 @@
         <link rel="stylesheet" href="/assets/css/meditacao.css" />
         <link rel="stylesheet" href="/assets/css/contato.css" />
         <link rel="stylesheet" href="/assets/css/shinybox.css" />
+        <link rel="stylesheet" href="/assets/css/programacao.css"/>
     </head>
     <body>
 
@@ -55,9 +57,10 @@
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
                        <li ng-class="{ 'active': currentTab === 0 }" ng-click="collapse()"><a href="#principal"><b>Principal</b></a></li>    
-                       <li ng-class="{ 'active': currentTab === 1 }" ng-click="collapse()"><a href="#meditacao"><b>Meditação</b></a></li>
-                       <li ng-class="{ 'active': currentTab === 2 }" ng-click="collapse()"><a href="#palestrantes"><b>Palestrantes</b></a></li>
-                       <li ng-class="{ 'active': currentTab === 3 }" ng-click="collapse()"><a href="#contato"><b>Contato</b></a></li>
+                       <li ng-class="{ 'active': currentTab === 1 }" ng-click="collapse()"><a href="#meditacao"><b>Semana da Meditação</b></a></li>
+                       <li ng-class="{ 'active': currentTab === 2 }" ng-click="collapse()"><a href="#programacao"><b>Programação</b></a></li>
+                       <li ng-class="{ 'active': currentTab === 3 }" ng-click="collapse()"><a href="#palestrantes"><b>Palestrantes</b></a></li>
+                       <li ng-class="{ 'active': currentTab === 4 }" ng-click="collapse()"><a href="#contato"><b>Contato</b></a></li>
                        <li class="buttonli">
                             <a href="http://klicktest.com.br/d20ec00e-b892-11e5-b896-29c9f3b01f72"> 
                                 <button type="button" class="btn btn-default">Inscreva-se</button>

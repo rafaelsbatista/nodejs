@@ -1,5 +1,5 @@
 myApp.controller('palestrantesController', ['$scope', '$rootScope', '$http', function($scope, $rootScope, $http) {
-       $rootScope.$emit('tabChange', 2);
+       $rootScope.$emit('tabChange', 3);
        $http.get("/assets/palestrante.json").then(function(response){
             $scope.palestrantes = response.data;
             $scope.palestrantes.forEach(function(palestrante) {

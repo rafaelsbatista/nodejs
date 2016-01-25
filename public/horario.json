@@ -1,0 +1,184 @@
+[
+    {
+        "name": "Segunda-feira",
+        "date": "25/01",
+        "palestras": [
+            {
+                "time": "14h00",
+                "tema": "Por que meditar nestes momentos de crise",
+                "nome": "Regina Restelli"
+            },
+            {
+                "time": "20h00",
+                "tema": "Como integrar a Meditação no seu dia-a-dia utilizando o corpo como ferramenta",
+                "nome": "Saulo Fong"
+            },
+            {
+                "time": "21h00",
+                "tema": "Como e onde encontrar a paz",
+                "nome": "Carlos Henrique"
+            },
+            {
+                "time": "22h00",
+                "tema": "Relaxamento com",
+                "nome": "Arminda Martins"
+            }
+        ]
+    },
+    {
+        "name": "Terça-feira",
+        "date": "26/01",
+        "palestras": [
+            {
+                "time": "14h00",
+                "tema": "Por que o Google pratica Mindfulness",
+                "nome": "Tiago Tatton"
+            },
+            {
+                "time": "20h00",
+                "tema": "Por que treinar a atenção pode mudar a maneira como vemos o Mundo",
+                "nome": "Duda Nascimento"
+            },
+            {
+                "time": "21h00",
+                "tema": "Entenda definitivamente os benefícios da prática meditativa",
+                "nome": "Amanda Dreher"
+            },
+            {
+                "time": "22h00",
+                "tema": "Meditação Guiada com",
+                "nome": "Gabriela Frantz"
+            }
+        ]
+    },
+    {
+        "name": "Quarta-feira",
+        "date": "27/01",
+        "palestras": [
+            {
+                "time": "14h00",
+                "tema": "Ferramentas terapêuticas que ajudam a entrar em estado meditativo",
+                "nome": "Maria Fernanda"
+            },
+            {
+                "time": "20h00",
+                "tema": "Como cultivar emoções positivas para uma vida mais equilibrada",
+                "nome": "Rosa Frazão"
+            },
+            {
+                "time": "21h00",
+                "tema": "Meditação para Iniciantes. Por onde começar",
+                "nome": "Arminda Martins"
+            },
+            {
+                "time": "22h00",
+                "tema": "Meditação com Mantra com",
+                "nome": "Regina Restelli"
+            }
+        ]
+    },
+    {
+        "name": "Quinta-feira",
+        "date": "28/01",
+        "palestras": [
+            {
+                "time": "14h00",
+                "tema": "Meditação para quem quer começar",
+                "nome": "Fred Nogueira"
+            },
+            {
+                "time": "20h00",
+                "tema": "Porque a Meditação Laica Educa",
+                "nome": "Claudiah Ratto"
+            },
+            {
+                "time": "21h00",
+                "tema": "Meditar em 1 minuto é Possível",
+                "nome": "Martin Boroson"
+            },
+            {
+                "time": "22h00",
+                "tema": "Meditação Guiada com",
+                "nome": "Caroline Bertolino"
+            }
+        ]
+    },
+    {
+        "name": "Sexta-feira",
+        "date": "29/01",
+        "palestras": [
+            {
+                "time": "14h00",
+                "tema": "Tudo Que Você Precisa Saber Sobre Meditação Para Crianças",
+                "nome": "Jonas Ramos"
+            },
+            {
+                "time": "20h00",
+                "tema": "Entenda a Meditação: A serena prática do amor e consciência",
+                "nome": "Gabriela Frantz"
+            },
+            {
+                "time": "21h00",
+                "tema": "Meditação Transcendental",
+                "nome": "Klebér Tani"
+            },
+            {
+                "time": "22h00",
+                "tema": "Meditação Guiada com",
+                "nome": "Marina Cruz"
+            }
+        ]
+    },
+    {
+        "name": "Sábado",
+        "date": "30/01",
+        "palestras": [
+            {
+                "time": "09h00",
+                "tema": "Por que a autocompaixão é um caminho para a felicidade genuína?",
+                "nome": "Caroline Bertolino"
+            },
+            {
+                "time": "16h00",
+                "tema": "Os hábitos diários que promovem a saúde e desenvolvimento espiritual: Meu novo estilo de vida em 2016",
+                "nome": "Fernando Bignardi"
+            },
+            {
+                "time": "21h00",
+                "tema": "Meditação, felicidade e gratidão",
+                "nome": "Fabiana Fondevila"
+            },
+            {
+                "time": "22h00",
+                "tema": "Meditação Guiada com",
+                "nome": "Maria Fernanda"
+            }
+        ]
+    },
+    {
+        "name": "Domingo",
+        "date": "31/01",
+        "palestras": [
+            {
+                "time": "09h00",
+                "tema": "A Meditação como Treinamento Mental para a Competição",
+                "nome": "Almir Menezes"
+            },
+            {
+                "time": "16h00",
+                "tema": "Como Mindfulness pode ajudar as Organizações e a Sociedade",
+                "nome": "Rodrigo Siqueira"
+            },
+            {
+                "time": "21h00",
+                "tema": "O Segredo da Meditação",
+                "nome": "Lama Jigme Lhawang"
+            },
+            {
+                "time": "22h00",
+                "tema": "Meditação Guiada com",
+                "nome": "Duda Nascimento"
+            }
+        ]
+    }
+]
